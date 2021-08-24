@@ -1,0 +1,18 @@
+body{
+  background: url('../images/u2b.png') no-repeat center fixed;
+}
+main{
+  background: #000000eb;
+}
+p{
+  color: greenyellow;
+  font-size: 30px;
+  font-family: monospace;
+}
+.youtube{
+  color:red;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 90px;
+  bottom: 10px;
+}

@@ -5,6 +5,6 @@ public class Main {
         ListaExercicios listaExercicios = new ListaExercicios();
 
         // Acessando metodos da classe ListaExercicios
-        listaExercicios.exercicio2();
+        listaExercicios.exercicio16();
     }
 }

@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
+import javax.swing.JOptionPane;
 
 public class ListaExercicios {
     public void exercicio1() {
